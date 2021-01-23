@@ -1,5 +1,7 @@
 ### Hi I'm Logan Rosenlund 👋
 
+<p><em> I am a Fullstack Software Engineer based in Washington state. </em></p>
+
 ```javascript
 const logan = {
   pronouns: "he" | "him",
