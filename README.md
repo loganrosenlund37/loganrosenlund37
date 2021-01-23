@@ -49,10 +49,10 @@ My name is Logan Rosenlund (he/him) and I am software engineer based out of Rear
 ![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&labelColor=blue&color=yellow)
 
 
-### Stats :chart_with_upwards_trend:
-[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=aisong1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisong1)](https://github.com/anuraghazra/github-readme-stats)
 
-
 -->
+
+### Stats :chart_with_upwards_trend:
+[![Logan's github stats](https://github-readme-stats.vercel.app/api?username=loganrosenlund37&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
