@@ -33,15 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-![Header](https://github.com/aisong1/aisong1/blob/main/githubBanner.png "Header")
-
-# Hey y'all! :ocean:
-[![Linkedin Badge](https://img.shields.io/badge/-andrewisong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewisong/)](https://www.linkedin.com/in/andrewisong/)
-[![Gmail Badge](https://img.shields.io/badge/-andrewsong61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:andrewsong61@gmail.com)](mailto:andrewsong61@gmail.com)
-
-My name is Logan Rosenlund (he/him) and I am software engineer based out of Reardan, WA. I love meeting new people just as much as I love coding, so don't be a stranger and feel free to connect via LinkedIn or email! 
-
 -->
 
 ### Tech Stack :hammer_and_wrench:
@@ -51,9 +42,7 @@ My name is Logan Rosenlund (he/him) and I am software engineer based out of Rear
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=blue&color=yellow)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&labelColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=blue&color=yellow)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&labelColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&labelColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Compiler-Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=blue&color=yellow)
 ![](https://img.shields.io/badge/Compiler-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=blue&color=yellow)
