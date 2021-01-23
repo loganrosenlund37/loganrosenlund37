@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi I'm Logan Rosenlund 👋
+
+```javascript
+const logan = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "HTML", "CSS"],
+  technologies: {
+        frontEnd: {
+            js: ["React", "react-hooks"],
+            css: ["flexbox"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["MongoDB", "Mongoose", "MySQL", "sqlite", "Sequelize", "PostgreSQL", "ArangoDB", "Arangosh"],
+    },
+ interests: ["Hockey", "Alaska", "Hiking", ""]
+}
+```
 
 <!--
 **loganrosenlund37/loganrosenlund37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +42,7 @@ Here are some ideas to get you started:
 
 My name is Logan Rosenlund (he/him) and I am software engineer based out of Reardan, WA. I love meeting new people just as much as I love coding, so don't be a stranger and feel free to connect via LinkedIn or email! 
 
+-->
 
 ### Tech Stack :hammer_and_wrench:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&labelColor=blue&color=yellow)
@@ -50,9 +70,6 @@ My name is Logan Rosenlund (he/him) and I am software engineer based out of Rear
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aisong1)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 ### Stats :chart_with_upwards_trend:
 [![Logan's github stats](https://github-readme-stats.vercel.app/api?username=loganrosenlund37&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
