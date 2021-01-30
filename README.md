@@ -17,7 +17,7 @@ const logan = {
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["MongoDB", "Mongoose", "MySQL", "sqlite", "Sequelize", "PostgreSQL", "ArangoDB", "Arangosh"],
     },
- interests: ["Hockey", "Alaska", "Hiking", ""]
+ interests: ["Hockey", "Alaska", "Hiking"]
 }
 ```
 
