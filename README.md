@@ -9,7 +9,7 @@ const logan = {
   technologies: {
         frontEnd: {
             js: ["React", "react-hooks"],
-            css: ["flexbox"]
+            css: ["flexbox", "bootstrap"]
         },
         backEnd: {
             js: ["Node", "Express"],
@@ -17,7 +17,7 @@ const logan = {
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["MongoDB", "Mongoose", "MySQL", "sqlite", "Sequelize", "PostgreSQL", "ArangoDB", "Arangosh"],
     },
- interests: ["Hockey", "Alaska", "Hiking"]
+ interests: ["Hockey", "Pickleball", "Alaska", "Hiking"]
 }
 ```
 
