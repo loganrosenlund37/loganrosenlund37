@@ -8,8 +8,8 @@ const logan = {
   code: ["Javascript", "HTML", "CSS"],
   technologies: {
         frontEnd: {
-            js: ["React", "react-hooks"],
-            css: ["flexbox", "bootstrap"]
+            js: ["React"],
+            css: ["tailwind", "bootstrap"]
         },
         backEnd: {
             js: ["Node", "Express"],
