@@ -4,7 +4,6 @@
 
 ```javascript
 const logan = {
-  pronouns: "he" | "him",
   code: ["Javascript", "HTML", "CSS"],
   technologies: {
         frontEnd: {
