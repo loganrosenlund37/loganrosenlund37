@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Testing-Mocha-informational?style=flat&logo=mocha&logoColor=white&labelColor=blue&color=yellow)
 
 
-
+<!--
 
 ### Stats :chart_with_upwards_trend:
 [![Logan's github stats](https://github-readme-stats.vercel.app/api?username=loganrosenlund37&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
