@@ -1,20 +1,20 @@
 ### Hi I'm Logan Rosenlund 👋
 
-<p><em> I am a Fullstack Software Engineer based in Washington state. </em></p>
+<p><em> I am a Fullstack Software Engineer based in Minnesota. </em></p>
 
 ```javascript
 const logan = {
   code: ["Javascript", "HTML", "CSS"],
   technologies: {
         frontEnd: {
-            js: ["React"],
-            css: ["tailwind", "bootstrap"]
+            js: ["React", "Next"],
+            css: ["tailwind"]
         },
         backEnd: {
             js: ["Node", "Express"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["MongoDB", "Mongoose", "MySQL", "sqlite", "Sequelize", "PostgreSQL", "ArangoDB", "Arangosh"],
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["MySQL", "sqlite", "SQL", "SSIS", "SSMS", "PostgreSQL", "ArangoDB", "Arangosh"],
     },
  interests: ["Hockey", "Pickleball", "Alaska", "Hiking"]
 }
