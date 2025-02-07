@@ -14,7 +14,8 @@ const logan = {
             js: ["Node", "Express"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MySQL", "sqlite", "SQL", "SSIS", "SSMS", "PostgreSQL", "ArangoDB", "Arangosh"],
+        cloud: ["Azure/Synapse"],
+        databases: ["MySQL", "sqlite", "SQL", "SSIS", "SSMS"", "ArangoDB", "Arangosh"],
     },
  interests: ["Hockey", "Pickleball", "Alaska", "Hiking"]
 }
